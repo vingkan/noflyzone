@@ -1,5 +1,5 @@
 ---
-code: b37y
+code: B37Y
 shortname: Aircraft Landing Gear Simulator
 ---
 

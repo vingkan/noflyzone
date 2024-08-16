@@ -197,7 +197,7 @@
       form.addEventListener('submit', (event) => {
         event.preventDefault();
 
-        const code = codeInput.value.toLowerCase().trim();
+        const code = codeInput.value.toUpperCase().trim();
         const filename = clues[code];
 
         if (filename) {

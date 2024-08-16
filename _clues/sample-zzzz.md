@@ -1,5 +1,5 @@
 ---
-code: zzzz
+code: ZZZZ
 shortname: Something Else Entirely that is Really, Really, Really, Long
 ---
 

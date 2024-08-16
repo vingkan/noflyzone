@@ -1,5 +1,5 @@
 ---
-code: vvvv
+code: VVVV
 shortname: Sample
 ---
 
