@@ -1,0 +1,18 @@
+title: No Fly Zone
+encoding: UTF-8
+url: "https://vingkan.github.io/noflyzone"
+baseurl: "/noflyzone"
+markdown: kramdown
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+collections:
+  clues:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "clues"
+    values:
+      layout: "clue"

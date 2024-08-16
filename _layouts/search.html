@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>No Fly Zone</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
+
+      body {
+        font-family: 'Inter', sans-serif;
+        background-color: #F7F7F7;
+        color: #152236;
+      }
+
+      h1 {
+        text-align: center;
+        margin-top: 40px;
+      }
+
+      p {
+        text-align: center;
+      }
+
+      /* Style links */
+      a {
+        color: #152236;
+        text-decoration: underline;
+      }
+
+      a:hover {
+        color: black;
+      }
+
+      form {
+        max-width: 500px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+      }
+
+      input[type="text"] {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        margin-right: 10px;
+        flex-grow: 1;
+        font-size: 18px;
+        color: #152236;
+      }
+
+      button {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #152236;
+        color: white;
+        font-size: 18px;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #1d439c;
+      }
+
+      input, button, footer {
+        font-family: 'Inter', sans-serif;
+      }
+
+      #error-message {
+        max-width: 500px;
+        margin: 20px auto;
+        text-align: center;
+        font-size: 18px;
+        word-wrap: break-word;
+      }
+
+      .clue {
+        min-width: 300px;
+        max-width: 500px;
+        box-sizing: border-box;
+        display: block;
+        margin: 10px auto;
+        padding: 10px;
+        border-radius: 5px;
+        background: #f0f0f0;
+        text-decoration: none;
+      }
+
+      .clue:hover {
+        background-color: #1d439c;
+      }
+
+      .clue:hover div span {
+        color: white;
+      }
+
+      .clue div {
+        display: flex;
+      }
+
+      .clue span:first-child {
+        border-right: 1px solid #d3d3d3;
+        padding-right: 10px;
+        margin-right: 10px;
+        min-width: 50px;
+        max-width: 50px;
+        text-align: center;
+        font-weight: bold;
+      }
+
+      footer {
+        background-color: #152236;
+        padding: 12px 0 10px 0;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        text-align: center;
+      }
+
+      footer img {
+        height: 40px;
+      }
+
+      #footnotes {
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>No Fly Zone</h1>
+    <p>Enter your code:</p>
+
+    <form>
+      <input type="text" id="code-input" placeholder="Enter code" />
+      <button id="submit-button">Go</button>
+    </form>
+
+    <div id="error-message"></div>
+
+    <div id="past-codes"></div>
+
+    <footer>
+      <img src="/noflyzone/assets/broeing-logo-white.png" />
+    </footer>
+
+    <script>
+
+      const names = {
+        {% for clue in site.clues %}
+        "{{ clue.code }}": "{{ clue.shortname }}",
+        {% endfor %}
+      };
+
+      function getCodes() {
+        const savedCodes = localStorage.getItem('codes')
+        const oldCodes = (savedCodes || '').split(',')
+        return [... new Set(oldCodes)]
+      }
+
+      const pastCodesEl = document.getElementById('past-codes')
+      const pastCodes = getCodes()
+
+      pastCodes.filter(v => v).forEach((filename) => {
+        const a = document.createElement('a')
+        const d = document.createElement('div')
+        const c = document.createElement('span')
+        const s = document.createElement('span')
+        a.classList.add('clue')
+        const chunks = filename.split('.')[0].split('-')
+        const code = chunks[chunks.length - 1]
+        a.href = filename
+        c.innerText = code.toUpperCase()
+        s.innerText = names[code]
+        d.appendChild(c)
+        d.appendChild(s)
+        a.appendChild(d)
+        pastCodesEl.appendChild(a)
+      })
+
+      const clues = {
+        {% for clue in site.clues %}
+        "{{ clue.code }}": "{{ site.baseurl }}{{ clue.url }}",
+        {% endfor %}
+      };
+
+      const form = document.querySelector('form');
+      const codeInput = document.getElementById('code-input');
+      const submitButton = document.getElementById('submit-button');
+      const errorMessage = document.getElementById('error-message');
+
+      form.addEventListener('submit', (event) => {
+        event.preventDefault();
+
+        const code = codeInput.value.toLowerCase().trim();
+        const filename = clues[code];
+
+        if (filename) {
+          const oldCodes = getCodes()
+          const allCodes = [... new Set([...oldCodes, filename])]
+          const newCodes = allCodes.join(',')
+          localStorage.setItem('codes', newCodes)
+
+          window.location.href = `${filename}`;
+        } else {
+          errorMessage.textContent = `Nothing found for code "${code}"`;
+        }
+      });
+    </script>
+  </body>
+</html>
