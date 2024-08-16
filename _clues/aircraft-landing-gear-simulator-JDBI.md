@@ -1,5 +1,5 @@
 ---
-code: B37Y
+code: JDBI
 shortname: Aircraft Landing Gear Simulator
 ---
 
