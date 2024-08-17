@@ -3,7 +3,7 @@ code: EHVY
 shortname: "Character: Broeing CEO, Quinn Harper"
 ---
 
-# Character: Broeing CEO, Quinn Harper
+# CEO, Quinn Harper
 
 ## Background
 
