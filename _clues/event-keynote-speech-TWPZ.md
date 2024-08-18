@@ -5,7 +5,7 @@ shortname: Keynote Speech
 
 # Keynote Speech
 
-> At 7:00 PM, give this keynote speech to all the attendees of the gala.
+> At <span data-relativeminutes="30">7:00 PM</span>, give this keynote speech to all the attendees of the gala.
 
 Good evening, everyone. My name is Skylar Vesper and I have worked as a Quality Engineer at Broeing for the past six years.
 

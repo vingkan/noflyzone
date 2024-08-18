@@ -15,7 +15,7 @@ When you arrive at the Broeing gala, you learn that Kendall Blair, the Vice Pres
 
 Use your existing knowledge as well as new information you gain from attendees at the gala to unmask both the safety issues at Broeing as well as solve the mystery of Kendall Blair’s murder. Some attendees are already aware that you are from the FAA, so tread carefully.
 
-You have until 8:15 PM to investigate. At that time, you should announce to everyone that you are an investigator from the FAA. If anyone wants to make an accusation about the murder or the safety allegations, you should call on them and let them state their case.
+You have until <span data-relativeminutes="105">8:15</span> PM to investigate. At that time, you should announce to everyone that you are an investigator from the FAA. If anyone wants to make an accusation about the murder or the safety allegations, you should call on them and let them state their case.
 
 To accuse a suspect of murder, someone must concisely state three things: what they think were the murder’s motive, means, and opportunity to kill the victim.
 
