@@ -36,7 +36,7 @@ Unfortunately, the launch of the 737 Volare has been mired in criticism. Three o
 
 ## Agenda
 
-- 6:50 PM: Listen to a welcome speech by Quinn Harper, the CEO of Broeing
-- 7:00 PM: Listen to the keynote speech by Skylar Vesper, a Quality Engineer at Broeing
-- 8:00 PM: Watch the CEO of Broeing and the President of Icarus Airlines sign the deal
-- 8:10 PM: Listen for a secret announcement from the CEO of Broeing
+- <span data-relativeminutes="20">6:50 PM</span>: Listen to a welcome speech by Quinn Harper, the CEO of Broeing
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech by Skylar Vesper, a Quality Engineer at Broeing
+- <span data-relativeminutes="90">8:00 PM</span>: Watch the CEO of Broeing and the President of Icarus Airlines sign the deal
+- <span data-relativeminutes="100">8:10 PM</span>: Listen for a secret announcement from the CEO of Broeing

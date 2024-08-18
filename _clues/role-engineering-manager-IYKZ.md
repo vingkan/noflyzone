@@ -7,7 +7,7 @@ shortname: "Role: Engineering Manager"
 
 ## Background
 
-You are an Engineering Manager at Broeing, working with Robin Ellis, the Vice President of Engineering. Tonight was supposed to be a celebration, but your team has work to do. You are responsible for completing a set of engineering simulations for the new 737 Volare aircraft. Quinn Harper, your CEO, expects the results of these simulations by 7:50 PM tonight, so they can review and sign off on the results.
+You are an Engineering Manager at Broeing, working with Robin Ellis, the Vice President of Engineering. Tonight was supposed to be a celebration, but your team has work to do. You are responsible for completing a set of engineering simulations for the new 737 Volare aircraft. Quinn Harper, your CEO, expects the results of these simulations by <span data-relativeminutes="80">7:50 PM</span> tonight, so they can review and sign off on the results.
 
 You were invited to a gala at the corporate headquarters of the Broeing Corporation, one of the world’s largest airplane manufacturers.
 
@@ -36,7 +36,7 @@ Unfortunately, the launch of the 737 Volare has been mired in criticism. Three o
 
 ## Agenda
 
-- 6:50 PM: Listen to a welcome speech by Quinn Harper, the CEO of Broeing
-- 7:00 PM: Listen to the keynote speech by Skylar Vesper, a Quality Engineer at Broeing
-- 8:00 PM: Watch the CEO of Broeing and the President of Icarus Airlines sign the deal
-- 8:10 PM: Listen for a secret announcement from the CEO of Broeing
+- <span data-relativeminutes="20">6:50 PM</span>: Listen to a welcome speech by Quinn Harper, the CEO of Broeing
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech by Skylar Vesper, a Quality Engineer at Broeing
+- <span data-relativeminutes="90">8:00 PM</span>: Watch the CEO of Broeing and the President of Icarus Airlines sign the deal
+- <span data-relativeminutes="100">8:10 PM</span>: Listen for a secret announcement from the CEO of Broeing
