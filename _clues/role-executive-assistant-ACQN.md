@@ -39,3 +39,7 @@ Unfortunately, the launch of the 737 Volare has been mired in criticism. Three o
 - 7:00 PM: Listen to the keynote speech by Skylar Vesper, a Quality Engineer at Broeing
 - 8:00 PM: Watch the CEO of Broeing and the President of Icarus Airlines sign the deal
 - 8:10 PM: Listen for a secret announcement from the CEO of Broeing
+
+# Private Notes of the CEO
+
+In addition to the public event agenda, you also have a copy of the CEO’s private agenda for the evening. After all, the Executive Assistants coordinate all the CEO’s activities. You can access the CEO’s private agenda and notes with this code: **EHVY**

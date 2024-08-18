@@ -25,7 +25,7 @@ The 737 Volare and this gala will be your swan song, as you plan to retire at th
 
 ## Notable People
 
-Joining you at the gala are your Executive Assistants. They have been briefed on your goals and agenda and can assist you throughout the evening.
+Joining you at the gala are your Executive Assistants. They have access to this document so that they can assist you with your goals and agenda throughout the evening.
 
 The other key guests of tonight’s gala are:
 
