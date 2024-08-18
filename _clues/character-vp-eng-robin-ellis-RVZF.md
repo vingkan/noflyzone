@@ -15,7 +15,7 @@ Tonight’s gala will celebrate a purchase order for Icarus Airlines to acquire 
 
 Unfortunately, the launch of the 737 Volare has been mired in criticism. Three of the planes have crashed upon landing, leading to hundreds of injuries, but thankfully no deaths. Pilots, regulators, and the press are calling for airlines to ground the aircraft and claiming that Broeing knowingly ignored safety issues with the design.
 
-As Broeing mounts a defense against these allegations, you and your team are responsible for completing a set of engineering simulations. Quinn Harper, your CEO, expects the results of these simulations by 7:50 PM tonight, so they can review and sign off on the results. You can also count on Kendall Blair, the VP of Finance, who has been mentoring you for the past three years and backed you for a chance at promotion to Senior Vice President of Engineering.
+As Broeing mounts a defense against these allegations, you and your team are responsible for completing a set of engineering simulations. Quinn Harper, your CEO, expects the results of these simulations by <span data-relativeminutes="80">7:50 PM</span> tonight, so they can review and sign off on the results. You can also count on Kendall Blair, the VP of Finance, who has been mentoring you for the past three years and backed you for a chance at promotion to Senior Vice President of Engineering.
 
 ## Goals
 
@@ -38,8 +38,8 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- 6:50 PM: Find Kendall Blair, the VP of Finance and your mentor, and celebrate by sharing a drink together during your CEO’s welcome speech, be sure that both of you give a loud and raucous cheer for the CEO
-- 7:00 PM: Listen to the keynote speech by Skyler Vesper, a Quality Engineer who is one of the rising stars in your engineering organization
-- 7:50 PM: Submit the results of your team’s simulations to Quinn Harper, your CEO
-- 8:00 PM: Watch your CEO sign the deal with Icarus Airlines
-- 8:10 PM: Listen for a secret announcement from your CEO
+- <span data-relativeminutes="20">6:50 PM</span>: Find Kendall Blair, the VP of Finance and your mentor, and celebrate by sharing a drink together during your CEO’s welcome speech, be sure that both of you give a loud and raucous cheer for the CEO
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech by Skyler Vesper, a Quality Engineer who is one of the rising stars in your engineering organization
+- <span data-relativeminutes="80">7:50 PM</span>: Submit the results of your team’s simulations to Quinn Harper, your CEO
+- <span data-relativeminutes="90">8:00 PM</span>: Watch your CEO sign the deal with Icarus Airlines
+- <span data-relativeminutes="100">8:10 PM</span>: Listen for a secret announcement from your CEO

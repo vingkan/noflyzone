@@ -40,11 +40,11 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- <span data-relativeminutes="15">6:45</span>: Find Robin Ellis, your VP of Engineering and remind them that you expect to have the results of the confidential simulations in your hand by 7:50 PM
-- 6:50 PM: Give a prepared speech, one of your aides will bring you the script beforehand
-- 6:55 PM: Find Kendall Blair, your VP of Finance and loudly remind them to take their meds, they often forget around this time of evening
-- 7:00 PM: Listen to the keynote speech by Skyler Vesper, a Quality Engineer at Broeing who you selected to speak about Broeing’s commitment to safety
-- 7:50 PM: Review the results of the engineering simulations and sign off
-- 8:00 PM: Sign the deal alongside Devon Sage, the President of Icarus Airlines
-- 8:10 PM: Announce who will succeed you as CEO after your retirement
-- 8:15 PM: Find Jamie Monroe, your VP of Sales and give them their commission
+- <span data-relativeminutes="15">6:45 PM</span>: Find Robin Ellis, your VP of Engineering and remind them that you expect to have the results of the confidential simulations in your hand by 7:50 PM
+- <span data-relativeminutes="20">6:50 PM</span>: Give a prepared speech, one of your aides will bring you the script beforehand
+- <span data-relativeminutes="25">6:55 PM</span>: Find Kendall Blair, your VP of Finance and loudly remind them to take their meds, they often forget around this time of evening
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech by Skyler Vesper, a Quality Engineer at Broeing who you selected to speak about Broeing’s commitment to safety
+- <span data-relativeminutes="80">7:50 PM</span>: Review the results of the engineering simulations and sign off
+- <span data-relativeminutes="90">8:00 PM</span>: Sign the deal alongside Devon Sage, the President of Icarus Airlines
+- <span data-relativeminutes="100">8:10 PM</span>: Announce who will succeed you as CEO after your retirement
+- <span data-relativeminutes="105">8:15 PM</span>: Find Jamie Monroe, your VP of Sales and give them their commission

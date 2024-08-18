@@ -41,7 +41,7 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- 6:50 PM: Listen to a welcome speech by Quinn Harper, the CEO
-- 7:00 PM: Listen to the keynote speech by Skyler Vesper, a Quality Engineer who is a card-carrying union member
-- 8:00 PM: Watch the CEO sign the deal with Icarus Airlines
-- 8:10 PM: Listen for a secret announcement from the CEO
+- <span data-relativeminutes="20">6:50 PM</span>: Listen to a welcome speech by Quinn Harper, the CEO
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech by Skyler Vesper, a Quality Engineer who is a card-carrying union member
+- <span data-relativeminutes="90">8:00 PM</span>: Watch the CEO sign the deal with Icarus Airlines
+- <span data-relativeminutes="100">8:10 PM</span>: Listen for a secret announcement from the CEO

@@ -41,8 +41,8 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- 6:45 PM: Give the watch as a gift to Kendall Blair, the VP of Finance of Broeing
-- 6:50 PM: Listen to a welcome speech by Quinn Harper, the CEO of Broeing
-- 7:00 PM: Listen to the keynote speech by someone from Broeing
-- 8:00 PM: Sign the deal alongside the CEO of Broeing
-- 8:10 PM: Listen for a secret announcement from the CEO of Broeing
+- <span data-relativeminutes="15">6:45 PM</span>: Give the watch as a gift to Kendall Blair, the VP of Finance of Broeing
+- <span data-relativeminutes="20">6:50 PM</span>: Listen to a welcome speech by Quinn Harper, the CEO of Broeing
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech by someone from Broeing
+- <span data-relativeminutes="90">8:00 PM</span>: Sign the deal alongside the CEO of Broeing
+- <span data-relativeminutes="100">8:10 PM</span>: Listen for a secret announcement from the CEO of Broeing

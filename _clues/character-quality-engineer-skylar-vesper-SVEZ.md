@@ -38,8 +38,8 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- 6:50 PM: Listen to a welcome speech by Quinn Harper, the CEO
-- 7:00 PM: Give your keynote speech and land your joke about the VP of Finance
-- 8:00 PM: Watch the CEO sign the deal with Icarus Airlines
-- 8:10 PM: Listen for a secret announcement from the CEO
-- 8:15 PM: Find the federal investigator and share whatever evidence you can find about safety issues at Broeing with them
+- <span data-relativeminutes="20">6:50 PM</span>: Listen to a welcome speech by Quinn Harper, the CEO
+- <span data-relativeminutes="30">7:00 PM</span>: Give your keynote speech and land your joke about the VP of Finance
+- <span data-relativeminutes="90">8:00 PM</span>: Watch the CEO sign the deal with Icarus Airlines
+- <span data-relativeminutes="100">8:10 PM</span>: Listen for a secret announcement from the CEO
+- <span data-relativeminutes="105">8:15 PM</span>: Find the federal investigator and share whatever evidence you can find about safety issues at Broeing with them

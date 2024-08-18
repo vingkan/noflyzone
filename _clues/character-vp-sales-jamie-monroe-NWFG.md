@@ -37,9 +37,9 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- 6:45 PM: Meet with Kendall Blair, the VP of Finance to discuss your compensation
-- 6:50 PM: Listen to a welcome speech by Quinn Harper, your CEO
-- 7:00 PM: Listen to the keynote speech, some rank and file employee is speaking
-- 8:00 PM: Watch your CEO, sign the deal with Icarus Airlines
-- 8:10 PM: Listen for a secret announcement from your CEO
-- 8:15 PM: Receive your commission for the Icarus Airlines deal from your CEO
+- <span data-relativeminutes="15">6:45 PM</span>: Meet with Kendall Blair, the VP of Finance to discuss your compensation
+- <span data-relativeminutes="20">6:50 PM</span>: Listen to a welcome speech by Quinn Harper, your CEO
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech, some rank and file employee is speaking
+- <span data-relativeminutes="90">8:00 PM</span>: Watch your CEO, sign the deal with Icarus Airlines
+- <span data-relativeminutes="100">8:10 PM</span>: Listen for a secret announcement from your CEO
+- <span data-relativeminutes="105">8:15 PM</span>: Receive your commission for the Icarus Airlines deal from your CEO

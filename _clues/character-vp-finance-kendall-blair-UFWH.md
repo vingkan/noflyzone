@@ -42,10 +42,10 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- 6:45 PM: Meet with Jamie Monroe, the VP of Sales to explain the situation around their commission, also ask them to bring your heart medication, which you have misplaced
-- 6:50 PM: Share a drink with Robin Ellis, the VP of Engineering and your mentee, during the CEO’s welcome speech
-- 6:55 PM: After the drink, break the news to Robin that you had to recommend against their promotion, make sure that Cameron Taylor, Broeing’s Chief Counsel is present to hear you give Robin the feedback
-- 7:00 PM: Listen to the keynote speech by Skyler Vesper, a Quality Engineer
-- 8:05 PM: Take your medications for your heart condition
-- 8:00 PM: Watch the CEO sign the deal with Icarus Airlines
-- 8:10 PM: Listen to the CEO announce their successor
+- <span data-relativeminutes="15">6:45 PM</span>: Meet with Jamie Monroe, the VP of Sales to explain the situation around their commission, also ask them to bring your heart medication, which you have misplaced
+- <span data-relativeminutes="20">6:50 PM</span>: Share a drink with Robin Ellis, the VP of Engineering and your mentee, during the CEO’s welcome speech
+- <span data-relativeminutes="25">6:55 PM</span>: After the drink, break the news to Robin that you had to recommend against their promotion, make sure that Cameron Taylor, Broeing’s Chief Counsel is present to hear you give Robin the feedback
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech by Skyler Vesper, a Quality Engineer
+- <span data-relativeminutes="35">7:05 PM</span>: Take your medications for your heart condition
+- <span data-relativeminutes="90">8:00 PM</span>: Watch the CEO sign the deal with Icarus Airlines
+- <span data-relativeminutes="100">8:10 PM</span>: Listen to the CEO announce their successor

@@ -41,9 +41,9 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- 6:50 PM: Listen to a welcome speech by Quinn Harper, the CEO
-- 6:50 PM: Gift the bottle to Kendall Blair, the VP of Finance and stick around so that you can be present while they break the news to Robin Ellis, the VP of Engineering
-- 7:00 PM: Listen to the keynote speech by Skyler Vesper, a Quality Engineer
-- 8:00 PM: Watch the CEO sign the deal with Icarus Airlines
-- 8:10 PM: Listen for a secret announcement from your CEO
-- 8:15 PM: Ensure that the CEO delivers the deal commission to the VP of Sales
+- <span data-relativeminutes="20">6:50 PM</span>: Listen to a welcome speech by Quinn Harper, the CEO
+- <span data-relativeminutes="20">6:50 PM</span>: Gift the bottle to Kendall Blair, the VP of Finance and stick around so that you can be present while they break the news to Robin Ellis, the VP of Engineering
+- <span data-relativeminutes="30">7:00 PM</span>: Listen to the keynote speech by Skyler Vesper, a Quality Engineer
+- <span data-relativeminutes="90">8:00 PM</span>: Watch the CEO sign the deal with Icarus Airlines
+- <span data-relativeminutes="100">8:10 PM</span>: Listen for a secret announcement from your CEO
+- <span data-relativeminutes="105">8:15 PM</span>: Ensure that the CEO delivers the deal commission to the VP of Sales
