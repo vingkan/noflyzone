@@ -10,6 +10,12 @@ collections:
   clues:
     output: true
 
+game:
+  # Express the game start time in minutes, other clues will add
+  # minutes relative to this point and display it in clock time.
+  # 6:30 PM = (12 * 60) + (6 * 60) + 30 = 1110
+  startminutes: 1110
+
 defaults:
   - scope:
       path: ""

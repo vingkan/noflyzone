@@ -118,5 +118,33 @@
       </div>
       <button onclick="window.location.href = '{{ site.baseurl }}/'">Back</button>
     </div>
+    <script>
+
+      const minutesPerHour = 60;
+      const hoursPerPeriod = 12;
+
+      function naiveLeftPad(number) {
+        return number < 10 ? `${0}${number}` : number;
+      }
+
+      function getRelativeClockTime(startMinutes, relativeMinutes) {
+        const totalMinutes = startMinutes + relativeMinutes;
+        const totalHours = Math.floor(totalMinutes / minutesPerHour);
+        const hours = totalHours % hoursPerPeriod;
+        const minutes = totalMinutes % minutesPerHour;
+        const period = totalHours <= hoursPerPeriod ? 'AM' : 'PM';
+        const clockTime = `${hours}:${naiveLeftPad(minutes)} ${period}`;
+        return clockTime;
+      }
+
+      const startMinutes = parseInt('{{ site.game.startminutes }}', 10);
+
+      Array.from(document.querySelectorAll('[data-relativeminutes]')).forEach((span) => {
+        const relativeMinutes = parseInt(span.dataset.relativeminutes, 10);
+        const clockTime = getRelativeClockTime(startMinutes, relativeMinutes);
+        span.innerText = clockTime;
+      });
+
+    </script>
   </body>
 </html>

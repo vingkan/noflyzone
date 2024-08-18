@@ -40,7 +40,7 @@ The other key guests of tonight’s gala are:
 
 ## Agenda
 
-- 6:45 PM: Find Robin Ellis, your VP of Engineering and remind them that you expect to have the results of the confidential simulations in your hand by 7:50 PM
+- <span data-relativeminutes="15">6:45</span>: Find Robin Ellis, your VP of Engineering and remind them that you expect to have the results of the confidential simulations in your hand by 7:50 PM
 - 6:50 PM: Give a prepared speech, one of your aides will bring you the script beforehand
 - 6:55 PM: Find Kendall Blair, your VP of Finance and loudly remind them to take their meds, they often forget around this time of evening
 - 7:00 PM: Listen to the keynote speech by Skyler Vesper, a Quality Engineer at Broeing who you selected to speak about Broeing’s commitment to safety
